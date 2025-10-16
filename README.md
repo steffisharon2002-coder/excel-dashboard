@@ -77,8 +77,7 @@ Steps to upload:
 
 6. Dashboard Preview
 (You can add a screenshot here)
-![Amazon Sales Dashboard Screenshot](image-link.png)
-
+ 
 7. Tools Used
 Microsoft Excel
 Pivot Tables, Pivot Charts
